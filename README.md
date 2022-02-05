@@ -1,2 +1,2 @@
-# C-dersleri
-1.Sınıfta yaptığım C örnekleri
+# C PROGRAMMING LANGUAGE
+C Samples
